@@ -43,15 +43,15 @@
             {
               "host": "i386-mingw32",
               "url": "https://cop-image-prod.oss-cn-hangzhou.aliyuncs.com/resource/420257228264570880/1574927450819/csky-elfabiv2-tools-i386-minilibc-20191122.tar.gz",
-              "archiveFileName": "csky-elfabiv2-tools-i386-minilibc-20191122.tar.gz",
-              "checksum": "MD5:141eedf88fc437ebcc3e92a7de9866bd",
-              "size": "107002262"
+              "archiveFileName": "csky-elfabiv2-tools-i386-minilibc-20191122.zip",
+              "checksum": "SHA-256:b8073e7b5db180b33712423beef0216a2afdbdf9e3a305671092cbe6b90c6ce5",
+              "size": "122770365"
             },
             {
               "host": "x86_64-mingw32",
               "url": "https://cop-image-prod.oss-cn-hangzhou.aliyuncs.com/resource/420257228264570880/1574927493455/csky-elfabiv2-tools-x86_64-minilibc-20191122.tar.gz",
               "archiveFileName": "csky-elfabiv2-tools-x86_64-minilibc-20191122.zip",
-              "checksum": "SHA-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+              "checksum": "SHA-256:e1fbdc85c409cfb7e5088464469e7b4147575683f8b96d6ff48109e38c55c432",
               "size": "121292078"
             }
           ]
