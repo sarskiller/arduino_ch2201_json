@@ -50,9 +50,9 @@
             {
               "host": "x86_64-mingw32",
               "url": "https://cop-image-prod.oss-cn-hangzhou.aliyuncs.com/resource/420257228264570880/1574927493455/csky-elfabiv2-tools-x86_64-minilibc-20191122.tar.gz",
-              "archiveFileName": "csky-elfabiv2-tools-x86_64-minilibc-20191122.tar.gz",
-              "checksum": "MD5:353d8b76ff23cca84544644dd2f6e7e7",
-              "size": "105961948"
+              "archiveFileName": "csky-elfabiv2-tools-x86_64-minilibc-20191122.zip",
+              "checksum": "SHA-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+              "size": "121292078"
             }
           ]
         }
