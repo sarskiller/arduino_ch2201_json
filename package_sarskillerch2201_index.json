@@ -12,7 +12,7 @@
         {
           "category": "CH2201",
           "name": "ch2201",
-          "url": "https://codeload.github.com/sarskiller/arduino_ch2201/zip/master/arduino_ch2201-master.zip",
+          "url": "https://codeload.github.com/sarskiller/arduino_ch2201/zip/master",
           "version": "0.1.0",
           "architecture": "ch2201",
           "archiveFileName": "arduino_ch2201-master.zip",
